@@ -7,6 +7,7 @@ package Strings;
 // 3) name.toLowerCase();
 // 4) name.trim();
 // 5) name.substring(start_index, end_index);
+// 6) name.replace(char to be replaced, char to replace with);
 
 class Main{
     public static void main(String[]args){
