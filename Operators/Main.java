@@ -17,6 +17,6 @@ public class Main {
         // --------
     // a & b = 1 0 
 
-        System.out.println(a&b);
+        System.out.println(a|b);
     }
 }
