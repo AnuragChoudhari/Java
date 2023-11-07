@@ -14,6 +14,8 @@ public class Bubble {
 
         int[] sample_arr = {2,3,1,0,5};
 
+        // Bubble sort 
+        
         for(int i=0;i<sample_arr.length-1;i++){
             for(int j=0;j<sample_arr.length-i-1;j++){
                 if(sample_arr[j]> sample_arr[j+1]){
